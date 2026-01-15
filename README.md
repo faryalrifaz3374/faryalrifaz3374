@@ -82,6 +82,7 @@ Highlights:
 **[Exploratory Data Analysis on Venezuela’s Resource Dependency & Economy (1960-2023)](https://www.kaggle.com/code/faryalrifaz3374/venezuela-resource-dependency-economy-eda)**
 
 Highlights:
+
 •    Clean, well-structured headings
 
 •    Insightful visualizations with interpretations
