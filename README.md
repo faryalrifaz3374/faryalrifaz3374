@@ -63,7 +63,7 @@ In this notebook, you’ll find:
 
 ----
 
-**[House Price Prediction] (https://www.kaggle.com/code/faryalrifaz3374/house-sales-data-eda-modeling/notebookUpdated)** 
+**[House Price Prediction](https://www.kaggle.com/code/faryalrifaz3374/house-sales-data-eda-modeling/notebookUpdated)** 
 
 Highlights:
 
